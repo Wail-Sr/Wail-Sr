@@ -1,16 +1,24 @@
-### Hi there 👋
+# <strong>Wail SRAIRI</strong>
 
-<!--
-**Wail-Sr/Wail-Sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Hi, I am a Software engineer | React JS Front-End Web Developer 👩‍💻
 
-Here are some ideas to get you started:
+- 🔭 Currently working as a full-time <strong>Software Engineer</strong>.
+- 🌱 Always learning ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies Proficiency:
+  - Frontend: Next.js, React.js, Vite, Material-UI, Tailwind CSS
+  - Backend: Express.js, PHP, Django
+  - Database: MySQL, PostgreSQL, MongoDB
+  - Additional Languages: Java, Kotlin, C, Python
+  - Fundamentals: Object-Oriented Programming (OOP), Design Patters, SQL, RESTful APIs
+  - Design Tools: UI/UX Design, Figma, Adobe Illustrator, Adobe XD
+  - Collaboration: Git/GitHub, Agile Scrum Methodology, JIRA
+  - Testing: Vitest, Jest, Cypress, Selenium
+    
+## Other interests:
+- Data Science
+- Computer vision
+
+## Some used programming languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wail-Sr)](https://github.com/anuraghazra/github-readme-stats)
