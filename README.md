@@ -10,7 +10,7 @@
   - Backend: Express.js, PHP, Django
   - Database: MySQL, PostgreSQL, MongoDB
   - Additional Languages: Java, Kotlin, C, Python
-  - Fundamentals: Object-Oriented Programming (OOP), Design Patters, SQL, RESTful APIs
+  - Fundamentals: Solving Problems, Object-Oriented Programming (OOP), Design Patters, SQL, RESTful APIs
   - Design Tools: UI/UX Design, Figma, Adobe Illustrator, Adobe XD
   - Collaboration: Git/GitHub, Agile Scrum Methodology, JIRA
   - Testing: Vitest, Jest, Cypress, Selenium
