@@ -21,4 +21,4 @@
 
 ## Most Used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wail-Sr)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkadir-bouziane&layout=compact)
