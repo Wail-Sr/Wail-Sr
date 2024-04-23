@@ -15,10 +15,10 @@
   - Collaboration: Git/GitHub, Agile Scrum Methodology, JIRA
   - Testing: Vitest, Jest, Cypress, Selenium
     
-## Other interests:
+## Other Interests:
 - Data Science
 - Computer vision
 
-## Some used programming languages:
+## Most Used:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wail-Sr)](https://github.com/anuraghazra/github-readme-stats)
