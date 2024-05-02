@@ -19,6 +19,10 @@
 - Data Science
 - Computer vision
 
-## Most Used:
+## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wail-Sr&layout=compact)
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Wail-Sr&show_icons=true&line_height=26&count_private=true&include_all_commits=true" alt="Wail's GitHub stats"/>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wail-Sr&layout=compact" alt="Wail's Top Langs"/>
+
+
+
